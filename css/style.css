@@ -1,0 +1,14 @@
+body{ 
+    background-color: rgb(12, 61, 6);
+}
+p {
+    font-size: 24px;
+    color: rgb(243, 242, 242);
+    font-weight: bold;
+}
+
+.texto{ 
+    font-size: 24px;
+    color: rgba(248, 1, 42, 0.623);
+    font-weight: bold;
+}
